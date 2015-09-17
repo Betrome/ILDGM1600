@@ -46,8 +46,8 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\GitBranchTest.cs" />
      <Compile Include="Assets\ILucas_VariablesFunctions.cs" />
+     <Compile Include="Assets\conventionsandsyntaxpassoff.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
