@@ -45,6 +45,7 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\IL_Loop.cs" />
      <Compile Include="Assets\ILucas_VariablesFunctions.cs" />
      <Compile Include="Assets\IfStatements.cs" />
      <Compile Include="Assets\conventionsandsyntaxpassoff.cs" />

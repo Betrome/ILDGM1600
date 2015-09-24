@@ -11,7 +11,7 @@ public class IfStatements : MonoBehaviour {
 		void Update()
 		{
 
-		if (Input.GetKey (KeyCode.Space))
+		if (Input.GetKeyDown (KeyCode.Space))
 			psncounter ();
 
         life -= Time.deltaTime * 6f;
