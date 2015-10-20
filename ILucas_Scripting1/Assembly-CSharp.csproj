@@ -48,6 +48,7 @@
      <Compile Include="Assets\DoWhileLoop.cs" />
      <Compile Include="Assets\ForEachLoop.cs" />
      <Compile Include="Assets\ForgeClass.cs" />
+     <Compile Include="Assets\IL_Array.cs" />
      <Compile Include="Assets\IL_DataTypes.cs" />
      <Compile Include="Assets\IL_Loop.cs" />
      <Compile Include="Assets\ILucas_VariablesFunctions.cs" />
@@ -55,17 +56,11 @@
      <Compile Include="Assets\Public_Class.cs" />
      <Compile Include="Assets\WhileLoop.cs" />
      <Compile Include="Assets\conventionsandsyntaxpassoff.cs" />
- <Reference Include="UnityEngine.Advertisements">
- <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll</HintPath>
- </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Networking">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
- </Reference>
- <Reference Include="UnityEngine.Analytics">
- <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
  </Reference>
  <Reference Include="Mono.Cecil">
  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/Mono.Cecil.dll</HintPath>
