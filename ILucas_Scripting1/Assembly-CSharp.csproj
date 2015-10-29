@@ -50,6 +50,7 @@
      <Compile Include="Assets\ForgeClass.cs" />
      <Compile Include="Assets\IL_Array.cs" />
      <Compile Include="Assets\IL_DataTypes.cs" />
+     <Compile Include="Assets\IL_Enumeration.cs" />
      <Compile Include="Assets\IL_Loop.cs" />
      <Compile Include="Assets\ILucas_VariablesFunctions.cs" />
      <Compile Include="Assets\IfStatements.cs" />
