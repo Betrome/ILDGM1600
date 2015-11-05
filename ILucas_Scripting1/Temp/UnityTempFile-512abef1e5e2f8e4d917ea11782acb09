@@ -82,6 +82,7 @@ Assets/IL_Array.cs
 Assets/IL_DataTypes.cs
 Assets/IL_Enumeration.cs
 Assets/IL_Loop.cs
+Assets/IL_Switches.cs
 Assets/ILucas_VariablesFunctions.cs
 Assets/IfStatements.cs
 Assets/Public_Class.cs
