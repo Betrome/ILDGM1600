@@ -81,6 +81,14 @@
     <Compile Include="Assets\ScriptAssignments\Public_Class.cs" />
     <Compile Include="Assets\ScriptAssignments\WhileLoop.cs" />
     <Compile Include="Assets\ScriptAssignments\conventionsandsyntaxpassoff.cs" />
+    <Compile Include="Assets\Scripts\Continue.cs" />
+    <Compile Include="Assets\Scripts\DestroyBullets.cs" />
+    <Compile Include="Assets\Scripts\EnemyAttack.cs" />
+    <Compile Include="Assets\Scripts\EnemyMovement.cs" />
+    <Compile Include="Assets\Scripts\PlayerHealth.cs" />
+    <Compile Include="Assets\Scripts\PlayerMove.cs" />
+    <Compile Include="Assets\Scripts\ScoreManager.cs" />
+    <Compile Include="Assets\Scripts\Shooting.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\SyntaxTree\UnityVS\2015\UnityVS.CSharp.targets" />
 </Project>
